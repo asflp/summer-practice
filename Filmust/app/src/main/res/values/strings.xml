@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Filmust</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="having_account">Already have an account? <b>Sign In</b></string>
+    <string name="search">Search</string>
+    <string name="reccomendations">Recommendations</string>
+    <string name="title_name">Title Name</string>
+    <string name="next">Next</string>
+    <string name="start">Start</string>
+    <string name="intro_first_title">Welcome to FILMUST</string>
+    <string name="intro_second_title">Add to favourites</string>
+    <string name="intro_third_title">Log in to your account</string>
+    <string name="intro_first_subtitle">Here you can find information about your favourite films and series</string>
+    <string name="intro_second_subtitle">Your favourite films will be waiting for you in a handy tab</string>
+    <string name="intro_third_subtitle">Let\'s get started</string>
+</resources>
